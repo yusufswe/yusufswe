@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Computer Science Student at University of Brawijaya<br>🌱 I’m currently learning Java programming language and web development<br><br>Viel Spaß beim Hacken!
+🔭 I’m currently Computer Science Student at University of Brawijaya<br>🌱 I’m currently learning Java programming language and web development<br><br>
 
 
 ## 🌐 Socials:
